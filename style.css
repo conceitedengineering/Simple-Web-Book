@@ -1,0 +1,20 @@
+.body{
+  background: Yellow;
+  }
+#content {
+  font-size: 24px;
+  white-space: pre-wrap;
+}
+
+.custom-footer {
+  background: cyan;
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  font-size: 40px;
+}
+
+.custom-footer.left-page {
+  left: 20px;
+  right: unset;
+}
